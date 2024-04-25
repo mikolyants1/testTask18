@@ -1,0 +1,162 @@
+[
+    {
+      "id":1,
+      "title":"PUBG",
+      "cover":"https://ru-minecraft.ru/uploads/posts/2017-08/1504103884_playerunknowns-battlegrounds-12937710.jpg",
+      "description":"PUBG is a player versus player shooter game in which up to one hundred players fight in a battle royale.",
+      "game_screens":[
+        "https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663285042_26-mykaleidoscope-ru-p-dacha-iz-pabga-instagram-30.jpg",
+        "https://greatgamer.ru/images/screenshots/32683/screenshot_playerunknowns_battlegrounds_18.jpg",
+        "https://i.pinimg.com/originals/89/f8/36/89f836a6ac92972da18087c9cc87ef81.jpg"
+      ],
+      "multiuser":true,
+      "langs":["EN","RU"],
+      "raiting":5.0,
+      "platform":["pc","xbox 360"],
+      "max_online":100
+    },
+    {
+        "id":2,
+        "title":"Counter Strike",
+        "cover":"https://avatars.dzeninfra.ru/get-zen-vh/271828/2a006afa5f662a2afd7b7e5982a8c9e2e16a/orig",
+        "description":"Counter-Strike (originally marketed as  Half-Life: Counter-Strike) is a multiplayer first-person shooter initially created by Minh Le  and Jess Cliffe  as a mod for Half-Life.",
+        "game_screens":[
+          "https://prognoz-sport.com/wp-content/uploads/2022/03/730_screenshots_20180908130025_1-scaled.jpg",
+          "https://steamuserimages-a.akamaihd.net/ugc/1623931106807988148/9A59E878E2F584AE167759A4E76DEBAC14821EFB/",
+          "https://i08.fotocdn.net/s131/a33de63cb345263d/public_pin_l/2956894772.jpg"
+        ],
+        "multiuser":true,
+        "platform":["pc"],
+        "langs":["EN"],
+        "raiting":6.3,
+        "max_online":12
+      },
+      {
+        "id":3,
+        "title":"The Witcher 3",
+        "langs":["EN","RU"],
+        "raiting":7.1,
+        "cover":"https://i.playground.ru/p/qZZae1C0uyIScG_Zvl6xQg.jpeg",
+        "description":"In the wake of Assassins of Kings, Geralt continues his work as a Witcher, hunting monsters that would prey on the innocent in a world filled with chaos and war.",
+        "game_screens":[
+          "https://cybersport.metaratings.ru/storage/images/2e/97/2e97b1a9ca89837dfb790871fa1c81d2.jpg",
+          "https://i.playground.ru/p/KAKDzyELL_1TUfkqhvKDaA.jpeg",
+          "https://pristavkitut.ru/upload/iblock/fe9/fe9aa5fc625a3f05e312f3029d53c2fa.jpeg"
+        ],
+        "multiuser":false,
+        "platform":["xbox 360","ps4","pc"],
+        "max_online":1
+      },
+      {
+        "id":4,
+        "title":"Detroit: Become Human",
+        "langs":["EN"],
+        "raiting":8.3,
+        "cover":"https://files.vgtimes.ru/gallery/main/144099/1574665950_8933.jpg",
+        "description":"Set in a dystopian future Detroit of 2038, in which androids are integrated in everyday life as workers and companions.",
+        "game_screens":[
+           "https://o-tendencii.com/uploads/posts/2022-06/1654136135_11-o-tendencii-com-p-tatu-detroit-become-human-foto-11.jpg",
+           "https://s.24.hu/app/uploads/2018/06/detroit_-become-human_20180529185008.jpg",
+           "https://gamestracker.org/_ld/250/29414852.jpg"
+        ],
+        "multiuser":false,
+        "platform":["ps4"],
+        "max_online":1
+      },
+      {
+        "id":5,
+        "title":"GTA 5",
+        "langs":["EN","RU"],
+        "raiting":6.5,
+        "cover":"https://kartinkis.cdnbro.com/posts/83810675-fony-iz-igry-gta-v-khoroshem-razreshenii-43.jpg",
+        "description":"When a young street hustler, a retired bank robber, and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government.",
+        "game_screens":[
+           "https://i.ytimg.com/vi/JOWOd8VONUM/maxresdefault.jpg",
+           "https://i.ytimg.com/vi/kfIN4B2VhnI/maxresdefault.jpg",
+           "https://i.ytimg.com/vi/uFUk6taLHGU/maxresdefault.jpg"
+        ],
+        "multiuser":true,
+        "platform":["pc","ps4"],
+        "max_online":50
+      },
+      {
+        "id":6,
+        "title":"Far cry 6",
+        "langs":["EN","RU"],
+        "raiting":5.4,
+        "cover":"https://graph.digiseller.ru/img.ashx?id_d=3248405",
+        "description":"Far Cry 6 takes place in 2021 in Yara, a fictional Caribbean island nation inspired by Cuba and ruled by the dictator Antón Castillo (Giancarlo Esposito). A 1967 guerrilla revolution that toppled the presidency of his father led to Yara's isolation from the rest of the world.",
+        "game_screens":[
+          "https://www.digiseller.ru/preview/928496/p1_3565177_6e93b2fa.jpg",
+          "https://www.digiseller.ru/preview/890463/p1_3268021_750a12be.jpeg",
+          "https://assetsio.reedpopcdn.com/far-cry-6-amigos-chicharron.jpg"
+        ],
+        "platform":["pc","ps4","xbox 360"],
+        "multiuser":true,
+        "max_online":14
+      },
+      {
+        "id":7,
+        "title":"Spider-man",
+        "langs":["EN"],
+        "raiting":6.9,
+        "cover":"https://pic.rutubelist.ru/video/48/ca/48ca26f2fbc863a2cdb1750283eb26e2.jpg",
+        "description":"Based on the Marvel Comics character Spider-Man, it tells an original narrative that is inspired by the long-running comic book mythology, while also drawing from various adaptations in other media.",
+        "game_screens":[
+           "https://get.wallhere.com/photo/Spider-Man-Video-Game-Heroes-1882865.jpg",
+           "https://avatars.mds.yandex.net/get-mpic/4322107/img_id1362226597552860137.jpeg/orig",
+           "https://piterplay.com/image/catalog/kupit-marvel-spider-man-ps41.jpeg"
+        ],
+        "multiuser":false,
+        "platform":["ps4"],
+        "max_online":1
+      },
+      {
+        "id":8,
+        "title":"Red Dead Redemption 2",
+        "langs":["EN"],
+        "raiting":5.7,
+        "cover":"https://www.digiseller.ru/preview/432476/p1_3423052_dafb5a23.jpg",
+        "description":" Played from a first- or third-person perspective, the game is set in an open-world environment featuring a fictionalized version of the United States in 1899.",
+        "game_screens":[
+           "https://www.digiseller.ru/preview/1206286/p1_3898652_dd360b5b.jpg",
+           "https://avatars.mds.yandex.net/get-mpic/6303765/img_id1598781807417312144.jpeg/orig",
+           "https://avatars.mds.yandex.net/get-mpic/1060343/img_id3981672812881694160.jpeg/orig"
+        ],
+        "multiuser":true,
+        "platform":["xbox 360","pc"],
+        "max_online":24
+      },
+      {
+        "id":9,
+        "title":"God of war 4",
+        "langs":["EN"],
+        "raiting":8.6,
+        "cover":"https://pic.rutubelist.ru/video/f6/57/f657d1ccd3eb0209c81ae15a1414dd9f.jpg",
+        "description":" Living as a man outside the shadow of the gods, Kratos must adapt to unfamiliar lands, unexpected threats, and a second chance at being a father. ",
+        "game_screens":[
+            "https://avatars.mds.yandex.net/get-mpic/1865219/img_id7022582316406688308.jpeg/orig",
+            "https://darkstalker.ru/wp-content/uploads/5/c/b/5cb04021a69eb375c9018e0ba1684381.jpeg",
+            "https://i.playground.ru/p/CZ-ibXhteUUQl-xZWT4dXA.jpeg"
+        ],
+        "multiuser":false,
+        "platform":["ps4","xbox 360"],
+        "max_online":1
+      },
+      {
+        "id":10,
+        "title":"Cyber punk",
+        "langs":["EN","RU"],
+        "raiting":6.8,
+        "cover":"https://www.digiseller.ru/preview/392497/p1_3052246_804d64ca.jpg",
+        "description":"Cyberpunk is a subgenre of science fiction in a dystopian futuristic setting.",
+        "game_screens":[
+           "https://images.hdqwalls.com/download/2022-cyberpunk-2077-5k-zt-2560x1440.jpg",
+           "https://www.digiseller.ru/preview/949533/p1_3316419_bea50cbe.jpg",
+           "https://digiseller.com/preview/730077/p1_3047967_09378e89.jpg"
+        ],
+        "multiuser":false,
+        "platform":["pc","ps4"],
+        "max_online":1
+      }
+]

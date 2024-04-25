@@ -1,0 +1,10 @@
+:root {
+  background-color: rgb(50, 50, 50);
+  color: white;
+}
+
+#root {
+  background-color: rgb(50, 50, 50);
+  color: white;
+  min-width: 600px;
+}
